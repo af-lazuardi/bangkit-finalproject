@@ -1,8 +1,8 @@
 ## Diabetic Retinopathy Image Recognition Project
 This is our team's repository for completing on the final project about machine learning from Google Bangkit Academy
 
-Our team member are:
-1. Bagus
+Our member are:
+1. Ida Bagus Agung Nara Surya Darma
 2. R. Arif Firdaus Lazuardi
 3. Kadek Suar Wibawa
 4. Putu Althea Putri Wiradani
